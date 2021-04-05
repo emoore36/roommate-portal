@@ -74,57 +74,27 @@ New technologies include:
 - MongoDB
 
 ### Reasons for choosing these technologies
-- Spring Boot - To compare the latest in Java frameworks with vanilla Java Spring
-- Thymeleaf - To compare with the use of Apache Tiles and JSPs
-- MongoDB - To compare relational and non-relational databases
+I've created vanilla Java Spring applications in the past, but wanted to compare it with the convention-based structure of Spring Boot. Spring Boot is frequently used in the industry, which further drives my incentive to use this framework. The database technology, MongoDB Atlas v4.2.10, allows for fast and flexible documenting of data created by users in the application. Thymeleaf is a popular, more powerful alternative to the use of Apache Tiles with JSPs, so this application serves to compare these two technologies.
 
 ## Technical Approach
 
 ### Diagrams
 
-- ER Diagram:
-
-![Application ER Diagram](diagrams/er_diagram.png)
-
-- Wireframes:
-
-![Application Wireframes 1/3](diagrams/senior_wireframes-Page-1.png)
-![Application Wireframes 2/3](diagrams/senior_wireframes-Page-2.png)
-![Application Wireframes 3/3](diagrams/senior_wireframes-Page-3.png)
-
-- Class UMLs:
-
-
-User Functionality
-
-![Application Class UML - User Functionality](diagrams/classUML-User%20Functionality.png)
-
-
-Profile Functionality
-
-![Application Class UML - Profile Functionality](diagrams/classUML-Profile%20Functionality.png)
-
+- Class UML example:
 
 Questionnaire Response Functionality
 
 ![Application Class UML - Questionnaire Response Functionality](diagrams/classUML-QuestionnaireResponse%20Functionality.png)
 
 
-Message Functionality
-
-![Application Class UML - Message Functionality](diagrams/classUML-Message%20Functionality.png)
-
 - Sitemap:
 
 ![Application Sitemap](diagrams/site_map.png)
 
+
 - Logical Diagram:
 
 ![Application Logical Diagram](diagrams/project_proposal_block_diagram.png)
-
-- Physical Diagram:
-
-![Application Physical Diagram](diagrams/physical_diagram.png)
 
 
 ## Risks and Challenges
