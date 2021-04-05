@@ -15,30 +15,9 @@ See also: [Project Requirements](documents/project_requirements.docx)
 This application supports the following high-level functional requirements
  - Login and Registration
  - User Profile
-   - User may include information such as
-     - Their year
-     - Their major (or double-major) and any minors
-     - Their Social media handles, including:
-       - Snapchat
-       - Instagram
-       - Discord
-       - Twitter
-     - A personal biography 
  - User Questionnaire Response
-   - Users may take a questionnaire with questions concerning their rooming preferences, including:
-     - Room lighting when sleeping
-     - General room temperature
-     - noise level at night
-     - desired relationship with roommates
-     - comfort level with sharing items
-     - general bedtime tendency
- - Display Users
-   - users may view the profile and questionnaire response of other users on the website
+ - View the Profile and Questionnaire Response of other users
  - In-app Messaging
-   - Users may contact each other in the form of in-app emails
-   - Users have an 'inbox' which lists messages they have received from other users
-   - Users may reply to messages and/or delete messages 
-   - Users may send messages directly through the DisplayUser pages. 
 
 ### Non-functional
  - Spring Security: Users cannot access any pages aside from the login and registration form pages unless logged into the site first.
