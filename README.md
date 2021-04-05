@@ -3,9 +3,13 @@
 
 ## Introduction
 
+See also: [Project Proposal](documents/CST-451%20Capstone%20Project%20Proposal.docx)
+
 GCU's Student Housing Portal seems to lack a way for students to determine their compatibility as roommates before selecting their housing. This project seeks to simulate an improvement to the existing portal by allowing a user to view other users and their profile information before making housing decisions.
 
 ## High-Level Requirements
+
+See also: [Project Requirements](documents/project_requirements.docx)
 
 ### Functional
 This application supports the following high-level functional requirements
@@ -78,6 +82,8 @@ New technologies include:
 I've created vanilla Java Spring applications in the past, but wanted to compare it with the convention-based structure of Spring Boot. Spring Boot is frequently used in the industry, which further drives my incentive to use this framework. The database technology, MongoDB Atlas v4.2.10, allows for fast and flexible documenting of data created by users in the application. Thymeleaf is a popular, more powerful alternative to the use of Apache Tiles with JSPs, so this application serves to compare these two technologies.
 
 ## Technical Approach
+
+See also: [Design Specification](documents/CST-451%20Project%20Design%20Submission.docx)
 
 ### Diagrams
 
