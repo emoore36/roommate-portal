@@ -64,6 +64,10 @@ I've created vanilla Java Spring applications in the past, but wanted to compare
 
 See also: [Design Specification](documents/CST-451%20Project%20Design%20Submission.docx)
 
+
+The point of this application is to allow the user to create and sign into an account, create and update their profile, fill out the roommate preferences questionnaire, and view the profiles and questionnaire responses of other users on the website. This is done with a focus on the Spring Boot backend, using MVC and N-Layer design patterns to form the structure of the application. The user data will be contained in a MongoDB Cluster using MongoDB Atlas, an online application which serves as a cloud database service. Inversion of Control and Dependency Injection are also used in this application to allow for increase code interchangeability.
+
+
 ### Diagrams
 
 - Class UML example:
