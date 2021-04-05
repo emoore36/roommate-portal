@@ -55,6 +55,7 @@ This application supports the following high-level functional requirements
 ### Best Practices
 - All-Caps Database Table Names
 - Facade Design Pattern
+- IoC / DI Design Pattern
 - DAO Design Pattern
 - MVC Design Pattern
 - N-Layer Design Pattern
