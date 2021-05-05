@@ -1,5 +1,4 @@
-# Roommate Portal
-
+# [Roommate Portal](https://roommateportal.herokuapp.com/)
 
 ## Introduction
 
