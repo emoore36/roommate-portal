@@ -100,7 +100,7 @@ Questionnaire Response Functionality
   - [Spring Boot, Spring Security](https://spring.io/guides)
   - [MongoDB](https://docs.mongodb.com/manual/)
   - [Thymeleaf](https://www.thymeleaf.org/documentation.html)
-  - [Visual Studio Code](code.visualstudio.com/docs)
+  - [Visual Studio Code](https://code.visualstudio.com/docs)
 - Referenced technical resource guides from sites including:
   - [Mkyong](https://mkyong.com/)
   - [Baeldung](https://www.baeldung.com/)
